@@ -1,1 +1,404 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lujiale Guo</title>
+    <style type="text/css">
+        h1{
+            text-align: center;
+            font-size: 50px;
+        }
+    </style>
+    <script async defer src="https://buttons.github.io/buttons.js"></script>
+</head>
+<body>
+<!--     <h1>Seeking for a Master Degree...</h1>   -->
+    <br>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" media="screen" />
+	<style media="screen" type="text/css">
+		body {
+			border: 0pt none;
+			font-family: inherit;
+			font-size: 100%;
+			font-style: inherit;
+			font-weight: inherit;
+			margin: 0pt;
+			outline-color: invert;
+			outline-style: none;
+			outline-width: 0pt;
+			padding: 0pt;
+			vertical-align: baseline;
+		}
+		body {
+			position: relative;
+			margin: 3em auto 2em auto;
+			width: 1080px;
+			font-family: Times New Roman, Lato, Verdana, Helvetica, sans-serif;
+			font-size: 14px;
+			background: rgb(248, 246, 246);
+		}
+		</style>
+
+	<script>
+		var _hmt = _hmt || [];
+		(function() {
+			var hm = document.createElement("script");
+			hm.src = "https://hm.baidu.com/hm.js?1ec4ad5c61857459aa78d5ee7ddee28d";
+			var s = document.getElementsByTagName("script")[0];
+			s.parentNode.insertBefore(hm, s);
+		})();
+	</script>
+</head>
+
+<body>
+	<table align="center">
+	<tr>
+	<td align="center"><img border=0 style="border-radius:8px;" height="330" width="255" src="img/GuoLujiale-profile.jpg"></td>
+	<td align="center">&nbsp</td>
+	<td align="center">&nbsp</td>
+	<td align="center">
+		<td align="center"><h2>Lujiale Guo</h2>
+		     <p><font size=+1><b>郭 鲁嘉乐</b><br><br>M.Phil in Artificial Intelligence and Bioinformatics<br><a href="https://engine.um.edu.my/" target="_blank"><b>Engineering.um</b></a></font></p>
+		     <p><font size=+1>Email: <a href="mailto:mm2556910827@gmial.com"><i>mm2556910827@gmial.com</i></a></font><br></p>
+		     <p align="center">
+			    &nbsp;&nbsp;&nbsp;&nbsp;
+				<!-- GitHub -->
+					<a href="https://github.com/Guolujiale" target="_blank">
+					  <img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="26px"/>
+					</a>
+					&emsp;
+				<!-- CSDN -->
+					<a href="https://blog.csdn.net/qq_51288348?spm=1000.2115.3001.5343" target="_blank">
+						<img src="img/logo/CSDN.png" alt="CSDN" width="30px"/>
+					</a>
+					&emsp;
+				<!-- WeChat Office Account
+					<a href= "https://github.com/ChromeWei/PaperWeeklyAI/blob/master/MaiweiAI-com.png" target="_blank">
+						<img src="img/logo/WeChat_Office_Account.png" alt="WeChat Office Account" width="26px"/>
+					</a>
+					&emsp;
+				-->
+				<!-- Zhihu --->
+					<a href= "https://www.zhihu.com/people/xi-zhu-wo-bu-shuo" target="_blank">
+						<img src="img/logo/zhihu.png" alt="ZhiHu" width="35px"/>
+					</a>     
+					&emsp;     
+				<!-- Kaggle -->
+					<a href= "https://www.kaggle.com/guolujiale" target="_blank">
+						<img src="img/logo/icons8-kaggle-32.png" alt="Kaggle" width="28px"/>
+					</a>
+					&emsp;
+				<!-- Google Scholar -
+					<a href= " " target="_blank">
+						<img src="img/logo/google-scholar.png" alt="Google Scholar" width="28px"/>
+					</a>
+					&emsp;
+				-->
+				<!-- WeChat --
+					<a href= "https://github.com/Charmve/Charmve.github.io/tree/master/img/logo/My_WeChat.png" target="_blank">
+						<img src="img/logo/wechat.png" alt="WeChat" width="33px"/>
+					</a>
+					&emsp;
+				-->
+				<!-- My CV  -->
+					<a href="cv/Guo Lujiale CV.pdf" target="_blank">
+						<img src="img/logo/cv.png" alt="CV" width="33px"/>
+					</a>
+					&emsp;
+            </p>
+		</td>			
+	</td>		
+	</tr>
+	</table>
+	<br>
+	
+	<h2>Biography</h2>
+	<hr/>
+	<p>
+	    <font size="4"> 
+			I am currently a candidate of M.Phil.Engineering science in the <a href="https://engine.um.edu.my/" target="_blank"><b>School of Engineering</b></a>, <a href="https://um.edu.my/" target="_blank"><b>University of Malaya</b></a>. My supervisor is <a href="https://umexpert.um.edu.my/jhchuah" target="_blank">Prof. CHUAH JOON HUANG</a> from the Department of Electrical Engineering, and I have studied the infrared thermal imaging detection of bearings with unbalanced data in the Image Processing (VIP) Lab.
+		    
+			<br><br>Before that, I got a bachelor's degree in Mechanical Manufacturing and Automation from <a href="https://www.stdu.edu.cn/" target="_blank"><b>Shijiazhuang Tiedao University</b></a>, and I was instructed by <a href="https://yjs.stdu.edu.cn/supervisor?code=20180730" target="_blank">Prof. Xiaohui Gu</a> in <a href="http://skltes.stdu.edu.cn/" target="_blank"><b>China National Key Laboratory of Traffic Mechanics</b></a>.
+		    
+			<br><br>In the application of <b>Machine Learning</b> in my previous project, I have mastered various models and skills for <b>CV</b> <b>and NLP</b> (e.g CNN, Transformer, GAN, GNN, etc.). In addition, I have always been interested in <b>Bioinformatics</b>, and I have completed a project to detect micro-bacterial types from the perspective of pictures by using the Transformer model with leap-forward connection. Next, I will focus on the fields of <b>single-cell annotation</b> of multi-groups data by using graph neural network and postoperative analysis of <b>histological</b> sections by using AI.
+	    </font>
+        </p>
+
+        <!-- Education
+	<p> </p>
+	<p><font size="4"><span class="label">&#10148;</span> <a href="http://www.yzu.edu.cn" target="_blank"> Yangzhou University <b>(YZU)</b></a>, 
+		<a href="http://wlxy.yzu.edu.cn/art/2018/12/14/art_7322_673658.html" target="_blank">School of Physical Science and Technology</a>
+		</font></p>
+	<table>
+		
+	<tr>
+		<td><font size="3"><b>·</b> &nbsp Bachelor of Science in Electronic Information Science & Technology, GPA: 83.2/100; Rank: 6/41 </font></td>
+	</tr>
+	<tr>	
+		<td><font size="3"><b>·</b> &nbsp <b>Dual Degree in Business English</b>, GPA: 80.76/100; Rank: 23/76, the second language: JLPT-N3:75 </font></td>
+	</tr>
+	<tr>	
+		<td><font size="3"><b>·</b> &nbsp Awards: Totally won <b>12</b> national and provincial awards, <b>28</b> municipal and school-level awards </font></td>
+	</tr>
+	</table>  
+
+	<p><font size="4"><span class="label">&#10148;</span> <a href="http://jyt.jiangsu.gov.cn/art/2018/12/5/art_58320_7944692.html" target="_blank"> Winter Academic Program</a> at
+		<a href="https://ese.nju.edu.cn/" target="_blank"> Nanjing University <b>(NJU)</b>, School of Electronic Science and Engineering</a>
+		</font></p>
+	<table>	
+	<tr>
+		<td><font size="3"><b>·</b> &nbsp Being <b>the only student</b> who passed the selection in YZU ( Only 100 undergraduates were selected from Jiangsu Province)  </font></td>
+	</tr>
+	<tr>	
+		<td><font size="3"><b>·</b> &nbsp Took part in academic lectures and artificial intelligence (AI) development trainings, received trainings in facial recognition, target detection and image processing etc.  </font></td>
+	</tr>
+	<tr>	
+		<td><font size="3"><b>·</b> &nbsp Orally reported the study of “<i>Identification of Agricultural Diseases and Pests Based-on Machine Vision</i>” as a <b>student representative</b> & <b>team leader</b> </font> <a href="https://www.bilibili.com/video/av91647038" target="_blank"><b>POSTER</b></a> </td>
+	</tr>
+	<tr>	
+		<td><font size="3"><b>·</b> &nbsp Completed the Arm Smarter Connected(ASC) Course on AI Development held by <i>Arm Education</i> and <i>IThing Edu</i> </font></td>
+	</tr>
+	</table>
+ 	-->
+	<br>
+
+	<h2>Research Interests</h2>
+	<hr/>
+	<p>
+		<font size="4">
+			<a href="https://arxiv.org/abs/1903.07293" target="_blank">Graph neural network</a>, 
+			Computer Vision, 
+			Deep Learning,
+			Bioinformatics,
+			<a href="https://arxiv.org/abs/1703.10593" target="_blank">Generative Adversarial Network</a>,
+			<a href="https://www.biorxiv.org/content/10.1101/2020.09.17.301879v1" target="_blank">NLP in DNA/SCRNA-Seq</a>
+		</font>
+	</p>
+	<br>
+    <!--
+	<h2>Books</h2>
+	<hr/>
+	<table>
+	<tr>   
+		<td><font size="3"><b>1.</b></font></td>&nbsp;&nbsp;
+		<td><center><img width="180" src="img/publication/L0CV_profile-en.png" alt="Book: Computer Vision in Action" title="Book: Computer Vision in Action"></center></td>
+		<td></td>
+		<td></td>
+		<td>
+			<font size="4">
+				<b>计算机视觉实战演练：算法与应用</b><br>
+			</font>
+			<font size="3">
+				<b>Computer Vision in Action</b>
+			</font>	    
+			<font size="3">
+				&nbsp;&nbsp; <br><br><b>Wei Zhang*</b>
+				&nbsp;&nbsp; <br> <i><b>Computer Vision Algorithms and Applications</b>, a Chinese e-book contains source code, notebook, reader exchange community. </i> 
+				&nbsp;&nbsp; <br><br>[<a href="https://charmve.github.io/L0CV-web" target="_blank">Project website</a>]
+														| [<a href="https://charmve.github.io/computer-vision-in-action/" target="_blank"><b>📘 Online book</b></a>]
+														| [<a href="https://github.com/Charmve/computer-vision-in-action" target="_blank"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" style="vertical-align: bottom;" alt="Github" width="22px"/> GitHub</a>]
+														| <a href="https://charmve.github.io/computer-vision-in-action/" target="_blank"><img src="https://img.shields.io/badge/在线阅读-简体中文-000000.svg?logo=GitBook" style="vertical-align: bottom;" alt="中文电子书"></a>
+														<a href="https://github.com/Charmve/computer-vision-in-action/edit/master/README.md"><img src="https://img.shields.io/github/stars/Charmve/computer-vision-in-action?style=social" style="vertical-align: bottom;" alt="Stars"></a>
+				<a href="https://github.com/Charmve/computer-vision-in-action/edit/master/README.md"><img src="https://img.shields.io/github/forks/Charmve/computer-vision-in-action?style=social" style="vertical-align: bottom;" alt="Forks"></a>
+		</font>
+		</td>
+	</tr>
+	</table>
+	<br>
+    -->
+        <h2>Research Experience</h2>
+	<hr/>
+	<table>
+	    <tr>   
+		<td><font size="3"><b>1.</b></font></td>&nbsp;&nbsp;
+		<td><center><img width="260" src="img/project/bearing_thermal_images.png" alt="bearing_thermal_images"></center></td>
+		<td></td><td></td>
+		<td>
+			<font size="4">
+                <b>   Fault Diagnosis of Rolling Bearings using Unbalanced Infrared Thermal Imaging Sample</b>
+			</font>	    
+			<font size="3">
+			<br>
+			<br>An unsupervised learning framework named Feature-Preserving Cycle-Consistent Generative Adversarial Networks (FP-CycleGAN) is designed for defect detection in unbalanced rolling bearing infrared thermography sample. Since the classical Cycle-Consistent Generative Adversarial Networks (CycleGAN) often must balance the weights between generation, discrimination and consistency loss when doing the feature conversion from source domain to target domain, and the process often results in pattern collapse or feature loss. To avoid this problem, a new discriminator is designed to identify whether the generated image A and B belong to two different classes, and a new class loss are proposed. In order to better extract fault features and transfer features, based on the U-shaped network structure reconstruction generator, the global feature extraction ability of the network for feature maps with different sizes is improved, the number of parameters brought by the new network is reduced, and the chessboard effect of generated images is effectively avoided. Finally, the defect detection of the expanded dataset was performed using Residual Network and compared with the pre-expansion data to demonstrate the usability of the generated data and the superiority of the proposed FP-CycleGAN method for rolling bearing defect detection in small sample of infrared thermal images.
+			<br><br> Source of dataset: China State Key Laboratory of Traffic Mechanics.
+                        <ul class="list-inline">
+                            <a class="github-button"
+                                href="https://github.com/Guolujiale/FP-Cyclegan"
+                                data-icon="octicon-star" data-show-count="true"
+                                aria-label="Star Charmve/Surface-Defect-Detection on GitHub">Star</a>
+                            <a class="github-button"
+                                href="https://github.com/Guolujiale/FP-Cyclegan/fork"
+                                data-icon="octicon-repo-forked" data-show-count="true"
+                                aria-label="Fork Charmve/Surface-Defect-Detection on GitHub">Fork</a>
+                       </ul>
+		       <br><img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/>
+			    <a href="https://github.com/Guolujiale/FP-Cyclegan" target="_blank">https://github.com/Guolujiale/FP-Cyclegan</a>
+		       <br><br>
+		</td>
+	    <tr>   
+		<td><font size="3"><b>2.</b></font></td>&nbsp;&nbsp;
+		<td><center><img width="260" src="img/project/BTFormer_images.png" alt="BTFormer_images.png"></center></td>
+		<td></td><td></td>
+		<td>
+			<font size="4">
+				<b>   An accurate classification technique of bacteria with deep learning</b>
+			</font>	    
+			<font size="3">
+			<br>
+			<br>A new cross-connected neural network, BTFormer network, is proposed, which can make different feature maps interact with each other with the help of information interaction module to combine information about bacteria at macro and micro levels. We also propose a new method of self-attention mechanism, which can significantly reduce the parameters of neural network and improve the performance of neural network. We collected a data set containing five kinds of bacteria, including 3384 original images. Our network can classify bacteria within a few seconds after collecting bacterial images, with high efficiency.
+			<br>
+			<ul class="list-inline">
+					<a class="github-button"
+						href="https://github.com/Guolujiale/BTFormer"
+						data-icon="octicon-star" data-show-count="true"
+						aria-label="Star Charmve/Surface-Defect-Detection on GitHub">Star</a>
+					<a class="github-button"
+						href="https://github.com/Guolujiale/BTFormer/fork"
+						data-icon="octicon-repo-forked" data-show-count="true"
+						aria-label="Fork Charmve/Surface-Defect-Detection on GitHub">Fork</a>
+			</ul>
+			<br>
+			<a href="https://github.com/Guolujiale/BTFormer" target="_blank">
+				<img src="https://img.icons8.com/material-sharp/24/000000/github.png" style="vertical-align: bottom;" alt="Github" width="22px"/> GitHub
+			</a>
+			 | <a href="https://github.com/Guolujiale/BTFormer" target="_blank">✅ demo</a>
+			 | <a href="https://github.com/Guolujiale/BTFormer" target="_blank">📄 Homepage</a>
+			<br><br>
+		</td>
+	</tr>
+	<tr>   
+		<td><font size="3"><b>3.</b></font></td>&nbsp;&nbsp;
+		<td><center><img width="260" src="img/project/HAN for single cell.png" alt="HAN for single cell.png"></center></td>
+		<td></td><td></td>
+		<td>
+			<font size="4">
+				<b>   Heterogeneous Graph Attention Neural Network for Single Cell Annotations using Multiplex Mode Data</b>
+			</font>	    
+			<font size="3">
+			<br>
+			    <br>   The rapid development of single-cell omics provides more effective data for the understanding and prediction of various biological contents, such as epigenome, genome, and transcriptome. However, it also brings problems of data sparseness, discreteness, high noise and computational burden, so how to effectively use a large number of complex omics data for information processing and prediction of cell state is of great research significance. It is a very effective way to use machine learning to map data to a high-dimensional space for interaction. However, when the data is presented as many groups as possible, the traditional machine learning model cannot map it very well. The graph neural network model shows good results in processing large-scale single-cell annotation data. Using heterogeneous graph attention neural network (HGAT) model can effectively solve the problem of data intersection and combination of multi-omics through multi-level attention mechanism. In this paper, I initially used HGAT to process large-scale single-cell multi-omics data and achieved some satisfactory results on datasets of 248,285 human intestinal cells labeled by 48 Oligo Nucleotide-barcoded antibodies: accuracy = 0.9102 and weighted F1 score = 0.9101, which is better than the previous best method: F1 score=0.8. Therefore, this study is further carried out.
+			    <br><br>
+             <ul class="list-inline">
+                 <a class="github-button"
+                     href="https://github.com/Guolujiale/MSC-HAT-"
+                     data-icon="octicon-star" data-show-count="true"
+                     aria-label="Star Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control on GitHub">Star</a>
+                 <a class="github-button"
+                     href="https://github.com/Guolujiale/MSC-HAT-/fork"
+                     data-icon="octicon-repo-forked" data-show-count="true"
+                     aria-label="Fork Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control on GitHub">Fork</a>
+             </ul>
+			    <br>
+				<a href="https://github.com/Guolujiale/MSC-HAT-" target="_blank">
+					<img src="https://img.icons8.com/material-sharp/24/000000/github.png" style="vertical-align: bottom;" alt="Github" width="22px"/> GitHub
+				</a>
+				   | <a href="https://github.com/Guolujiale/MSC-HAT-" target="_blank">📄 Paper (Chinese)</a> 
+				   | <a href="https://github.com/Guolujiale/MSC-HAT-" target="_blank">🔳 Slides</a> 
+				   | <a href="https://github.com/Guolujiale/MSC-HAT-" target="_blank">📄 Patents</a> 
+				   | <a href="https://github.com/Guolujiale/MSC-HAT-" target="_blank">🎥 Video</a>
+				   | <a href="https://github.com/Guolujiale/MSC-HAT-" target="_blank">🚀 EmotionCube</a>
+		    	<br><br>
+			</font>
+		</td>
+	</table>
+	<br> 
+
+	
+	<!--
+	<h2>✨ News! ✨</h2>
+	<hr/>
+	<ul>
+		<li><font size="4"><b>2020.03.06:</b> 1 paper was accepted by <a href="https://www.2020.ieeeicme.org/" target="_blank">ICME 2020</a> !</font></li>
+		<li><font size="4"><b>2020.02.24:</b> 1 paper was accepted by <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a> !</font></li>
+	</ul>
+	<br>
+	-->
+	
+	<h2>Publications &nbsp;<a href="https://github.com/Guolujiale" target="_blank"><img src="img/logo/google-scholar.png" alt="Google Scholar" width="64px"/></a></h2>
+	<hr/>
+	<table>
+		<tr>
+			<td><br><font size="4"><b>2023</b></font></td>
+		</tr>
+		<tr>
+			<td><font size="4">1.&nbsp</font></td>
+			<td><center><img width="240" height="135" src="img/publication/FP-cyclegan Paper.jpg"></center></td>
+			<td>
+				<font size="4">
+					<b>Unsupervised Feature-Preserving CycleGAN for Fault Diagnosis of Rolling Bearings using Unbalanced Infrared Thermal Imaging Sample</b><span style="color: red;">--Under review...</span>
+				</font>
+				<font size="3">
+					&nbsp;&nbsp; <br><br><b>Lujiale Guo*, Joon Huang Chuaha*, W. J. K. Raymonda*, Xiaohui Gub, Jie Yaob , Xiangqian Chang</b>
+					&nbsp;&nbsp; <br> <i><b>Department of Electrical Engineering, Faculty of Engineering, Universiti Malaya, 50603 Kuala Lumpur, Malaysia</b>.
+					&nbsp;&nbsp; <br><br>[<a href="https://github.com/Guolujiale/FP-Cyclegan" target="_blank"><b>PDF</b></a>]
+																| [<a href="https://github.com/Guolujiale/FP-Cyclegan" target="_blank">BibTeX</a>]
+																| [<a href="https://github.com/Guolujiale/FP-Cyclegan" target="_blank">EndNote</a>]
+				</font>
+			</td>
+		</tr>
+		<tr>
+			<td><font size="4">2.&nbsp</font></td>
+			<td><center><img width="271" height="258" src="img/publication/BTFormer.png"></center></td>
+			<td>
+				<font size="4">
+					&nbsp;&nbsp;<b>BTFormer: An accurate classification technique of bacteria with deep learning</b><span style="color: red;">--Under review...</span>
+				</font>
+				<font size="3">
+					<br><br>&nbsp;&nbsp;Xiangqian Chang, <b>Lujiale Guo</b>, Yuequn Ma, Geok Yuan Annie Tan, Xuechen Tian, Fatimah Ibrahima, Bingrui Huang, Joon Huang Chuah
+					<br><br>&nbsp;&nbsp;[<b><a href="https://github.com/Guolujiale/BTFormer" target="_blank">PDF</a></b>] 
+					| [<a href="https://github.com/Guolujiale/BTFormer" target="_blank">Supplemental Material</a>]
+					<br><br><details><summary>BibTeX</summary>https://github.com/Guolujiale/BTFormer</details>
+				</font>
+			</td>
+		</tr>
+	</table>
+
+		
+	<h2>Skills</h2>
+	<hr/>
+	<table>
+	<tr>	
+		<td><font size="4"><b> • Programming: Matlab, Python {Pytorch, Tensorflow, Pyg, Pandas, Numpy, sklearn}.</b></font></td>
+	</tr>
+	<tr>	
+		<td><font size="4"><b> • Tools LATEX, Linux, Anaconda, Git, Docker, Abode Illustrator, HTML.</b></font></td>
+	</tr>
+	</table>
+	<br>
+	
+	<h2>Academic awards & Scholarships</h2>
+	<hr/>
+	<table>
+	<tr>	
+		<td><br><b>1.</b>&nbsp; <font size="4">The third prize of "Chinese college students' engineering training ability competition--UAV" (2021-2022)</font></td>
+	</tr>
+	<tr>	
+		<td><b>2.</b> &nbsp; <font size="4">The second prize of "Chinese college students' engineering training ability competition--Automatic Tracking Vehicle" (CETC) (2021-2022)</font> </td>
+	</tr>
+	<tr>	
+		<td><b>3.</b> &nbsp; <font size="4">The first prize of “Chinese University Student Innovation Capacity Competition" (2020-2021)</font> </td>
+	</tr>
+	<tr>	
+		<td><b>4.</b> &nbsp; <font size="4">Shijiazhuang Tiedao University "Most Beautiful College Students"Scholarship (2020-2021)</font> </td>
+	</tr>
+	</table>
+	<br>
+
+	<br>
+	<h2>Website visit statistics</h2>
+	<hr/>
+
+	<div style="text-align: center;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=54zcnpa70wr&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script></div>
+
+    <div id="copyright" align="right">
+        <p>Copyright&copy; 2020~2023 Lujiae Guo.</p>
+</body>
+</html>
