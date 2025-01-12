@@ -256,6 +256,12 @@
 				methods that directly construct graphs by calculating Euclidean distance between cell coordinates, STAGC constructs
 				graphs that are more conducive to clustering task objectives by finding cells with similar gene expression patterns 
 				within the threshold specified by the results of Euclidean distance.
+			<br>
+				In addition, we try to use different methods to explore the tumor microenvironment with single cell resolution. 
+				This will be based on the transcriptome data of the surrounding cells of each cell (excluding this cell) for fusion and cluster analysis. 
+				Comparing the results with the traditional pca method or gnn method, we find that different operation methods will bring different interesting 
+				results. For example, the potential comparative experiments include: whether to carry out pca and its parameters, the way to fuse the data 
+				of surrounding cells, whether to use gnn, the number of surrounding cells selected, and is it possible to define the central cell only by the surrounding cells
 			<br><br> Source of dataset: Merfish.
 				<br><ul class="list-inline">
 					<a class="github-button"
