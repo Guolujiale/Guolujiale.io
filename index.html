@@ -406,35 +406,42 @@
 	</tr>
 	<tr>   
 		<td><font size="3"><b>6.</b></font></td>&nbsp;&nbsp;
-		<td><center><img width="260" src="img/project/HAN for single cell.png" alt="HAN for single cell.png"></center></td>
+		<td><center><img width="260" src="img/project/genept lung.jpg" alt="genept lung.jpg"></center></td>
 		<td></td><td></td>
 		<td>
 			<font size="4">
-				<b>   Heterogeneous Graph Attention Neural Network for Single Cell Annotations using Multiplex Mode Data</b>
+				<b>   Using GPT-based embedding to analyze the spatial transcriptome samples of Pulmonary arterial hypertension (PAH)</b>
 			</font>	    
 			<font size="3">
 			<br>
-			    <br>   The rapid development of single-cell omics provides more effective data for the understanding and prediction of various biological contents, such as epigenome, genome, and transcriptome. However, it also brings problems of data sparseness, discreteness, high noise and computational burden, so how to effectively use a large number of complex omics data for information processing and prediction of cell state is of great research significance. It is a very effective way to use machine learning to map data to a high-dimensional space for interaction. However, when the data is presented as many groups as possible, the traditional machine learning model cannot map it very well. The graph neural network model shows good results in processing large-scale single-cell annotation data. Using heterogeneous graph attention neural network (HGAT) model can effectively solve the problem of data intersection and combination of multi-omics through multi-level attention mechanism. In this paper, I initially used HGAT to process large-scale single-cell multi-omics data and achieved some satisfactory results on datasets of 248,285 human intestinal cells labeled by 48 Oligo Nucleotide-barcoded antibodies: accuracy = 0.9102 and weighted F1 score = 0.9101, which is better than the previous best method: F1 score=0.8. Therefore, this study is further carried out.
-			    <br><br>
+			    <br>   Recently, Yiqun Chen proposed a method which name is a simple and effective embedding model for single-cell biology 
+				building from chatgpt (Genept, Nature biomedical engineering). This method is based on the embedding of the chatgpt 
+				gene literature. By using GPT-3.5 to generate gene embedment from the text description of a single gene, and then 
+				averaging the gene embedment genes weighted by each gene expression level, single-cell embedment is generated. 
+				According to this single-cell embedment, cell clustering and annotation are carried out. With this method, 
+				I analyzed the lung tissues of the PAH mouse model and healthy control group. Through the cell clustering and 
+				annotation obtained by this method, we explored the pathological heterogeneity of lung tissues. It was found 
+				that myofibroblasts and vascular fibroblasts increased in PAH, glycolysis enhanced, endothelial cells and healthy controls.
+				<br><br>
              <ul class="list-inline">
                  <a class="github-button"
-                     href="https://github.com/Guolujiale/MSC-HAT-"
+                     href="https://github.com/Guolujiale/Genept-for-lung"
                      data-icon="octicon-star" data-show-count="true"
                      aria-label="Star Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control on GitHub">Star</a>
                  <a class="github-button"
-                     href="https://github.com/Guolujiale/MSC-HAT-/fork"
+                     href="https://github.com/Guolujiale/Genept-for-lung/fork"
                      data-icon="octicon-repo-forked" data-show-count="true"
                      aria-label="Fork Charmve/Design-of-a-3D-Dynamic-Display-System-Based-on-Voice-Control on GitHub">Fork</a>
              </ul>
 			    <br>
-				<a href="https://github.com/Guolujiale/MSC-HAT-" target="_blank">
+				<a href="https://github.com/Guolujiale/Genept-for-lung" target="_blank">
 					<img src="https://img.icons8.com/material-sharp/24/000000/github.png" style="vertical-align: bottom;" alt="Github" width="22px"/> GitHub
 				</a>
-				   | <a href="https://github.com/Guolujiale/MSC-HAT-" target="_blank">📄 Paper (Chinese)</a> 
-				   | <a href="https://github.com/Guolujiale/MSC-HAT-" target="_blank">🔳 Slides</a> 
-				   | <a href="https://github.com/Guolujiale/MSC-HAT-" target="_blank">📄 Patents</a> 
-				   | <a href="https://github.com/Guolujiale/MSC-HAT-" target="_blank">🎥 Video</a>
-				   | <a href="https://github.com/Guolujiale/MSC-HAT-" target="_blank">🚀 EmotionCube</a>
+				   | <a href="https://github.com/Guolujiale/Genept-for-lung" target="_blank">📄 Paper (Chinese)</a> 
+				   | <a href="https://github.com/Guolujiale/Genept-for-lung" target="_blank">🔳 Slides</a> 
+				   | <a href="https://github.com/Guolujiale/Genept-for-lung" target="_blank">📄 Patents</a> 
+				   | <a href="https://github.com/Guolujiale/Genept-for-lung" target="_blank">🎥 Video</a>
+				   | <a href="https://github.com/Guolujiale/Genept-for-lung" target="_blank">🚀 EmotionCube</a>
 		    	<br><br>
 			</font>
 		</td>
